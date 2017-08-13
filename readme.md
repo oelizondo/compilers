@@ -2,7 +2,7 @@
 
 ### Homeworks
 
-1. Build a Stack, Queue and Dictionary.
+1. [Build a Stack, Queue and Dictionary.](https://github.com/oelizondo/compilers/tree/master/tarea1)
 
 ### Assignments
 
