@@ -1,6 +1,3 @@
-## Tarea 1
-
-```python
 ### Tarea 1 ###
 
 ### Queue ###
@@ -115,5 +112,3 @@ del diccionario['hola']
 # Checar si hay un valor con una llave
 
 'hola' in diccionario # false
-
-```
