@@ -7,7 +7,7 @@ el lenguaje de python. Que es el lenguaje en el que haremos nuestro proyecto fin
 
 en parser.py
 ```python
-  from bison import BisonParser, BisonNode
+from bison import BisonParser, BisonNode
 ```
 
 Después tenemos que diseñar nuestra gramática
