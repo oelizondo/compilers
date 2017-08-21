@@ -28,7 +28,7 @@ class Stack:
         return self._at(position, self.head)
 
     def _at(self, position, data):
-        if position == 0:
+        if position == 1:
             return data.data
         self._at(position - 1, data.next)
 
