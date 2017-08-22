@@ -11,4 +11,4 @@ El scanner de Coco/R funciona como un automáta determinístico finito. Mientras
 que el parser utiliza descenso recursivo.
 
 #### Cómo funciona Coco/R
-![how_does_coco_r_work](/cocor.md)
+![how_does_coco_r_work](./cocor.png)
